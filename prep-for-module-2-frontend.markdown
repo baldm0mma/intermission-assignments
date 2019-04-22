@@ -5,6 +5,8 @@
 
 Make a fresh copy of [this google doc](https://docs.google.com/document/d/1l08-d5Vdx4r4iGCaZ3mpUm4n3SJVaPI9lqVpp5W_epU/edit#) that you can edit.  This document contains some reading material and practice exercises that will help you solidify important concepts from Mod 1. Some information might be new to you, some might be review.
 
+My google doc [link](https://docs.google.com/document/d/1Nmm6lRONca737QQYWf42nRapuxjVWOXlS6GiU-33zWk/edit)
+
 You should read through this document and fill out any practice exercises or question prompts in the copy that you've created. **Send your completed copy to instructors via Slack before Day 1 of the inning.**
 
 
